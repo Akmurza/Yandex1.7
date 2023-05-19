@@ -24,5 +24,6 @@ public class Main {
         System.out.println(officeTools.containsValue(2));//проверка на наличие по значению, boolean
         System.out.println(officeTools.containsValue(2));
         System.out.println("bye");
+        System.out.println("baby");
     }
 }
